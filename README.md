@@ -1,5 +1,5 @@
 # 💫 About Me:
-I currently work at Mercedes-Benz<br>I'm looking to collaborate on git<br>I need help with visibility<br>I am learning AI/GenAI now<br>ask me about Bigdata/Data Engineering/Data Analytics, Azure/AWS<br>I am Mr.cool
+I currently work at MB<br>I'm looking to collaborate on git<br>I need help with visibility<br>I am learning AI/GenAI now<br>ask me about Bigdata/Data Engineering/Data Analytics, Azure/AWS<br>I am Mr.cool
 
 
 # 💻 Tech Stack:
